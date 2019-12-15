@@ -15,7 +15,7 @@ html {
   }
 
   @include respond(tab-land) {
-    font-size: 56.25%; // 9px
+    font-size: 56.25%; //9px
   }
   
   @include respond(tab-port) {
@@ -30,4 +30,9 @@ body {
   @include respond(tab-port) {
     padding: 0;
   } 
+}
+
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
 }
