@@ -1,4 +1,4 @@
-Simple practice with HOC and React.lazy
+old project from a long time ago that was refactored
 
 ## Available Scripts
 
