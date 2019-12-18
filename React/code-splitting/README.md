@@ -1,0 +1,1 @@
+Simple practice with HOC and React.lazy
